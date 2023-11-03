@@ -1,0 +1,33 @@
+
+
+.changeBG{
+    animation: change 30s infinite ease-in-out;
+}
+
+@keyframes change {
+    0%
+    {
+        background-image: url('./image/image1.jpg');
+    }
+    20%
+    {
+        background-image: url('./image/image2.jpg');
+    }
+    40%
+    {
+        background-image: url('./image/image3.jpg');
+    }
+    60%
+    {
+        background-image: url('./image/image1.jpg');
+    }
+    80%
+    {
+        background-image: url('./image/image2.jpg');
+    }
+    100%
+    {
+        background-image: url('./image/image3.jpg');
+    }
+}
+

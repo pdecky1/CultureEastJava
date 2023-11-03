@@ -1,0 +1,20 @@
+[
+    {
+      "link": "#",
+      "judul": "Wayang Kulit",
+      "deskripsi": "Wayang kulit adalah pertunjukan tradisional di mana tokoh-tokoh dari epik Ramayana atau Mahabharata diproyeksikan menggunakan layar kulit, diperankan oleh dalang yang mengendalikan boneka kulit tersebut.",
+      "imageUrl": "./image/wayang.png"
+    },
+    {
+      "link": "#",
+      "judul": "Reog Ponorogo",
+      "deskripsi": "Reog Ponorogo adalah tarian tradisional yang melibatkan penari yang mengenakan topeng hewan mitologis seperti singa atau macan. Pertunjukan ini memadukan gerakan yang dinamis dengan musik gamelan yang kuat, menciptakan pengalaman visual dan auditori yang luar biasa.",
+      "imageUrl": "./image/reog.png"
+    },
+    {
+      "link": "#",
+        "judul": "Ludruk",
+        "deskripsi": "Ludruk adalah seni drama tradisional Jawa Timur yang menggunakan bahasa Jawa. Pertunjukan ini sering kali mengangkat cerita-cerita humor sehari-hari, dan biasanya melibatkan beberapa pemain dan musik gamelan.",
+        "imageUrl": "./image/ludruk.png"
+    }
+]

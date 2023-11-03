@@ -1,0 +1,23 @@
+[
+    {
+      "id":"0",
+      "link": "#",
+      "judul": "Rawon",
+      "deskripsi": "Rawon adalah hidangan sup tradisional Jawa Timur yang terkenal dengan warna hitamnya. Sup ini dibuat dengan menggunakan daging sapi, kacang kedelai hitam, kelapa parut, bawang putih, dan berbagai rempah-rempah seperti kunir, lengkuas, dan kluwek ",
+      "imageUrl": "./image/rawon.png"
+    },
+    {
+      "id":"1",
+      "link": "#",
+      "judul": "Soto Ayam Lamongan",
+      "deskripsi": " Soto Ayam Lamongan adalah varian soto yang berasal dari Lamongan, Jawa Timur. Kuahnya yang kental dan lezat dibuat dari rebusan ayam, kemiri, kelapa parut, jahe, dan serai. ",
+      "imageUrl": "./image/soto.png"
+    },
+    {
+      "id":"2",
+      "link": "#",
+        "judul": "Lontong Kupang",
+        "deskripsi": "Lontong Kupang adalah hidangan laut yang terdiri dari kupang (jenis kerang kecil) yang dimasak dengan bumbu kacang dan disajikan dengan lontong (ketupat kecil) serta irisan tahu dan tempe.",
+        "imageUrl": "./image/lontong.png"
+    }
+]
