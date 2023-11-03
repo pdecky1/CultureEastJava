@@ -30,7 +30,7 @@ const getListM = () => {
             
                         <div class="flex flex-col items-center py-9 pt-4" >
                         <h1 class="font-bold text-2xl text-center pb-4">${item.judul}</h1>
-                        <p class="font-semibold text-xl text-justify max-w-[500px]">${item.deskripsi}</p>
+                        <p class="font-semibold text-xl text-justify" style="max-width: 500px;">${item.deskripsi}</p>
                         </div>
                     </div>
                 </a>
@@ -69,7 +69,7 @@ const getListK = () => {
     
                 <div class="flex flex-col items-center py-9 pt-4" >
                 <h1 class="font-bold text-2xl text-center pb-4">${item.judul}</h1>
-                <p class="font-semibold text-xl text-justify max-w-[500px]">${item.deskripsi}</p>
+                <p class="font-semibold text-xl text-justify" style="max-width: 500px;">${item.deskripsi}</p>
                 </div>
             </div>
         </a>
